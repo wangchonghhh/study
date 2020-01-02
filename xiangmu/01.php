@@ -15,6 +15,14 @@ $arr=$dao->fetchAll($sql);
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <style>
+        table{
+            width: 400px;
+            border: 1px solid black;
+            background-color: red;
+            margin: 0 auto;
+        }
+    </style>
 </head>
 <body>
 <form action="02.html">
