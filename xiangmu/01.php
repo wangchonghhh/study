@@ -17,6 +17,9 @@ $arr=$dao->fetchAll($sql);
     <title>Document</title>
 </head>
 <body>
+<form action="02.html">
+    <input type="submit" value="增加">
+</form>
 <table>
     <tr>
         <th>姓名</th>
